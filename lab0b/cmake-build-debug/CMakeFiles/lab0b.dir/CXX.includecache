@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HlopeTs/CLionProjects/lab0b/counter.cpp
+counter.h
+C:/Users/HlopeTs/CLionProjects/lab0b/counter.h
+
+C:/Users/HlopeTs/CLionProjects/lab0b/counter.h
+string
+-
+map
+-
+fstream
+-
+vector
+-
+algorithm
+-
+iostream
+-
+
