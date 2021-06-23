@@ -1,5 +1,0 @@
-abc./ab     abc a a a
-a
-a
-b   ab
-    abc     33
